@@ -467,9 +467,13 @@ body.compensate-for-scrollbar {
     rgba(0, 0, 0, .019) 88%,
     rgba(0, 0, 0, 0) 100%
     );
+    font-size: 12pt;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-style: italic;
+    color: #006666;
     bottom: 0;
-    color: #eee;
-    font-size: 14px;
+    /*color: #eee;
+    font-size: 14px;*/
     font-weight: 400;
     left: 0;
     line-height: 1.5;
